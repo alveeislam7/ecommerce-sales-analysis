@@ -1,4 +1,4 @@
-# E-commerce Sales Analysis Dashboard | Excel 
+# E-commerce Sales Analysis | Excel 
 
 ## **Project Overview**
 This project involves a comprehensive analysis of e-commerce sales data to track key performance indicators (KPIs) and visualize business trends. The goal was to provide actionable insights into profitability, regional sales distribution, and Year-over-Year (YOY) growth to support data-driven decision-making.
